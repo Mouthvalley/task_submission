@@ -81,6 +81,7 @@ main {
 
 .main-box {
   width: 90%;
+  margin: auto;
   margin-bottom: 20px;
   padding: 10px;
   position: relative;
@@ -89,6 +90,7 @@ main {
 /*変更点２*/
 
 .main-box:last-child {
+  margin: auto;
   margin-bottom: 0;
 }
 /*変更点３*/
